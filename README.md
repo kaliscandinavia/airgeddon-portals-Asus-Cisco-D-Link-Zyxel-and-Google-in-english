@@ -4,6 +4,6 @@
 airgeddon/plugins/customportals.
 Cred goto xpz3 & OscarAkaElvis for inspirasjon
 and code-fix whitch make this possible TODO.
-- This repo is ailable until added to;
+- This repo is available until added to;
   
   https://github.com/xpz3/airgeddonplugins

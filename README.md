@@ -7,4 +7,4 @@
 Cred goto xpz3 & OscarAkaElvis for inspirasjon
 and code-fix whitch make this possible TODO.
   https://github.com/xpz3/airgeddonplugins
-# Arcived as my  pull request is now merged to xpz3 repo and available there.
+# Archived as my pull request is merged into xpz3 repo and available there.
